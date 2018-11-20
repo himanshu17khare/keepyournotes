@@ -1,0 +1,10 @@
+#Mon Sep 24 02:43:00 IST 2018
+path.2=classes.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/build/intermediates/transforms/dexMerger/debug/11
+base.1=/home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/build/intermediates/transforms/dexMerger/debug/12
+base.0=/home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/build/intermediates/transforms/dexMerger/debug/13

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Keep your notes</string>
+    <string name="forget_password"><u>Forget Password?</u></string>
+    <string name="security_code_last_website_you_visit">Security code- last website you visit</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="create_password">Create Password</string>
+    <string name="user_name">Name</string>
+    <string name="create_account">Create Account</string>
+    <string name="create">Create</string>
+    <string name="show_notes">Show Notes</string>
+</resources>

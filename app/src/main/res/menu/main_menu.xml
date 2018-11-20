@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:title="Change Password"
+    android:id="@+id/password"
+    app:showAsAction="never"/>
+<item android:title="Feedback"
+    android:id="@+id/feed"
+    app:showAsAction="never"/>
+    <item android:title="Delete All"
+        android:id="@+id/delete"
+        app:showAsAction="never"/>
+    <item android:title="Archive"
+        android:id="@+id/arch"
+        app:showAsAction="never"/>
+    <item android:title="New Group"
+        android:id="@+id/newGroup"/>
+    <item android:title="Trash"
+        android:id="@+id/trash"/>
+    <item android:title="Share"
+        android:id="@+id/share"
+        android:icon="@drawable/ic_share_black_24dp"/>
+</menu>

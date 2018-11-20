@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="?android:colorControlHighlight">
+ <item android:id="@android:id/background">
+        <shape>
+            <stroke android:color="#FFF"
+                android:width="0dp"/>
+            <corners android:radius="0dp"/>
+            <padding
+                android:bottom="10dp"
+                android:left="10dp"
+                android:right="10dp"
+                android:top="10dp"/>
+            <solid
+                android:color="#FF6D00"/>
+            <gradient android:startColor="#FF6D00"
+                android:endColor="#D500F9"/>
+        </shape>
+    </item>
+</ripple>
+

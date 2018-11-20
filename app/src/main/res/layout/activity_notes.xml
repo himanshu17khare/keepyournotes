@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/layout"
+    android:layout_height="match_parent"
+    tools:context=".NotesActivity">
+    <com.github.clans.fab.FloatingActionMenu
+    android:id="@+id/floating"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentEnd="true"
+    android:layout_margin="25dp"
+    app:menu_labels_textColor="#212121"
+    app:menu_labels_colorNormal="#fff"
+    app:menu_labels_colorPressed="@color/colorAccent"
+    app:menu_labels_colorRipple="#fff"
+    app:menu_colorNormal="#E040FB"
+    app:menu_colorPressed="#E040FB"
+    app:menu_colorRipple="#fff"
+    app:menu_openDirection="up">
+        <com.github.clans.fab.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_label="Doodle"
+            app:fab_colorNormal="#AA00FF"
+            app:fab_colorPressed="#AA00FF"
+            app:fab_colorRipple="#fff"
+            app:fab_size="mini"
+            android:src="@drawable/ic_create_black_24dp"/>
+        <com.github.clans.fab.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_label="Camera"
+            app:fab_colorNormal="#AA00FF"
+            app:fab_colorPressed="#AA00FF"
+            app:fab_colorRipple="#fff"
+            app:fab_size="mini"
+            android:src="@drawable/ic_camera_black_24dp"/>
+        <com.github.clans.fab.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_label="Record"
+            app:fab_size="mini"
+            app:fab_colorNormal="#AA00FF"
+            app:fab_colorPressed="#AA00FF"
+            app:fab_colorRipple="#fff"
+            android:src="@drawable/ic_mic_black_24dp"/>
+        <com.github.clans.fab.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_label="Add Notes"
+            app:fab_size="mini"
+            app:fab_colorNormal="#AA00FF"
+            app:fab_colorPressed="#AA00FF"
+            app:fab_colorRipple="#fff"
+            android:src="@drawable/ic_cloud_upload_black_24dp"/>
+
+    </com.github.clans.fab.FloatingActionMenu>
+
+</RelativeLayout>

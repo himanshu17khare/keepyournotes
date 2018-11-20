@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:27.1.1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/dbf4627096c6a65135a7e45816230ab1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/f9892361c3b04aa07765076f43efd14b/AndroidManifest.xml:17:1-23:12
+MERGED from [com.github.clans:fab:1.6.4] /home/himanshu/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/7e1299945fd1bc7b1433fed4c6054277/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a2e5387a077b324ca20388b7965ce006/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a7036b7c692259db2bd4133bd262575c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/974ba9a0d476325934f12d98d09c38b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/800ffa6f6823208b5ccd79170d0c3e00/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/378f20b9f7c4efaa7e5cc0683a113eec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/8a6cb58e92b0f1f0c255ead3535b03ef/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/43bd32f9426fe4fc69c2f6a2c2816759/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/b2b1d8e1481a8cd261c728c94f44bc6f/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/53ddeb8f9241d13e8916b2b5cd017aa0/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/18e452a5ceb91a74c03131ab03dfad8e/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha1.aar/c703097419a0f1d6d7090601e869d624/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha1.aar/8a211ed28ac9348d1a6c3ff42e80d8b0/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha1.aar/f676286cd3179afe2d589b51498a7118/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha1.aar/05946cfe9fd206069b308c826fa1dbe0/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha1.aar/4930661736b74cfa2a04f8a4eac352c1/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha1.aar/036162227620e33fa57718bea86f7992/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha1.aar/a5e35d10aa9e9c841b21ef560b6375ac/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha1.aar/c97573d8f80148d23abeac0d3bbe43fe/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha1.aar/620ed62abbc1d683d124906f001321ff/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha1.aar/eb22349147f8a9e60f46a388da21f438/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha1.aar/1e49627c4579e01fdafb74b779b87065/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/124cb891b6600eb97b6068dcc706ee86/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/9140af44eb6ce6cc6a3ae67cb38a48fa/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/6bb9e23285f836a63b6e763a5f0fce09/AndroidManifest.xml:17:1-23:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/himanshu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9fc915d54a571714302a1b8ceca7d443/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/himanshu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/815c9db75f2d865a566aa1641915c312/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/himanshu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e60e7b0d4966de576660a39f60344a2f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/himanshu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8dc9ed11196a8d34831e7d5691968a94/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml
+		INJECTED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml
+		ADDED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml
+		ADDED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.github.clans:fab:1.6.4] /home/himanshu/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/7e1299945fd1bc7b1433fed4c6054277/AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.4] /home/himanshu/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/7e1299945fd1bc7b1433fed4c6054277/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a2e5387a077b324ca20388b7965ce006/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a2e5387a077b324ca20388b7965ce006/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml:11:9-40
+activity#himanshukhare.keepyournotes.IntroActivity
+ADDED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml:12:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml:16:27-74
+activity#himanshukhare.keepyournotes.NotesActivity
+ADDED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml:19:9-20:58
+	android:theme
+		ADDED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml:20:13-46
+	android:name
+		ADDED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml:19:19-48
+activity#himanshukhare.keepyournotes.PasswordActivity
+ADDED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml:21:9-63
+	android:name
+		ADDED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml:21:19-51
+uses-sdk
+INJECTED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml
+INJECTED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/dbf4627096c6a65135a7e45816230ab1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/dbf4627096c6a65135a7e45816230ab1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/f9892361c3b04aa07765076f43efd14b/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/f9892361c3b04aa07765076f43efd14b/AndroidManifest.xml:21:5-44
+MERGED from [com.github.clans:fab:1.6.4] /home/himanshu/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/7e1299945fd1bc7b1433fed4c6054277/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.4] /home/himanshu/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/7e1299945fd1bc7b1433fed4c6054277/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a2e5387a077b324ca20388b7965ce006/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a2e5387a077b324ca20388b7965ce006/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a7036b7c692259db2bd4133bd262575c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a7036b7c692259db2bd4133bd262575c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/974ba9a0d476325934f12d98d09c38b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/974ba9a0d476325934f12d98d09c38b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/800ffa6f6823208b5ccd79170d0c3e00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/800ffa6f6823208b5ccd79170d0c3e00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/378f20b9f7c4efaa7e5cc0683a113eec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/378f20b9f7c4efaa7e5cc0683a113eec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/8a6cb58e92b0f1f0c255ead3535b03ef/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/8a6cb58e92b0f1f0c255ead3535b03ef/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/43bd32f9426fe4fc69c2f6a2c2816759/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/43bd32f9426fe4fc69c2f6a2c2816759/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/b2b1d8e1481a8cd261c728c94f44bc6f/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/b2b1d8e1481a8cd261c728c94f44bc6f/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/53ddeb8f9241d13e8916b2b5cd017aa0/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/53ddeb8f9241d13e8916b2b5cd017aa0/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/18e452a5ceb91a74c03131ab03dfad8e/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/18e452a5ceb91a74c03131ab03dfad8e/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha1.aar/c703097419a0f1d6d7090601e869d624/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha1.aar/c703097419a0f1d6d7090601e869d624/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha1.aar/8a211ed28ac9348d1a6c3ff42e80d8b0/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha1.aar/8a211ed28ac9348d1a6c3ff42e80d8b0/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha1.aar/f676286cd3179afe2d589b51498a7118/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha1.aar/f676286cd3179afe2d589b51498a7118/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha1.aar/05946cfe9fd206069b308c826fa1dbe0/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha1.aar/05946cfe9fd206069b308c826fa1dbe0/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha1.aar/4930661736b74cfa2a04f8a4eac352c1/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha1.aar/4930661736b74cfa2a04f8a4eac352c1/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha1.aar/036162227620e33fa57718bea86f7992/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha1.aar/036162227620e33fa57718bea86f7992/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha1.aar/a5e35d10aa9e9c841b21ef560b6375ac/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha1.aar/a5e35d10aa9e9c841b21ef560b6375ac/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha1.aar/c97573d8f80148d23abeac0d3bbe43fe/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha1.aar/c97573d8f80148d23abeac0d3bbe43fe/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha1.aar/620ed62abbc1d683d124906f001321ff/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha1.aar/620ed62abbc1d683d124906f001321ff/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha1.aar/eb22349147f8a9e60f46a388da21f438/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha1.aar/eb22349147f8a9e60f46a388da21f438/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha1.aar/1e49627c4579e01fdafb74b779b87065/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha1.aar/1e49627c4579e01fdafb74b779b87065/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/124cb891b6600eb97b6068dcc706ee86/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/124cb891b6600eb97b6068dcc706ee86/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/9140af44eb6ce6cc6a3ae67cb38a48fa/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/9140af44eb6ce6cc6a3ae67cb38a48fa/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/6bb9e23285f836a63b6e763a5f0fce09/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] /home/himanshu/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/6bb9e23285f836a63b6e763a5f0fce09/AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/himanshu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9fc915d54a571714302a1b8ceca7d443/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/himanshu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9fc915d54a571714302a1b8ceca7d443/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/himanshu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/815c9db75f2d865a566aa1641915c312/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/himanshu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/815c9db75f2d865a566aa1641915c312/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/himanshu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e60e7b0d4966de576660a39f60344a2f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/himanshu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e60e7b0d4966de576660a39f60344a2f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/himanshu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8dc9ed11196a8d34831e7d5691968a94/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/himanshu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8dc9ed11196a8d34831e7d5691968a94/AndroidManifest.xml:20:5-44
+INJECTED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml
+INJECTED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml
+		ADDED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml
+		INJECTED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml
+		ADDED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml
+		INJECTED from /home/himanshu/Desktop/AndroidProjects/Keepyournotes/app/src/main/AndroidManifest.xml
